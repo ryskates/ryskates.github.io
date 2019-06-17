@@ -154,8 +154,8 @@ filter: invert(1);
 }
 .custom .stick.left{
     position: absolute;
-	top: 250px;
-	left: 160px;
+	top: 254px;
+	left: 174px;
     background: url(STICK.png);
     height: 116px;
     width: 116px;
@@ -163,8 +163,8 @@ filter: invert(1);
 }
 .custom .stick.right{
     position: absolute;
-	top: 400px;
-	left: 590px;
+	top: 402px;
+	left: 559px;
     background: url(C-STICK.png);
     height: 116px;
     width: 116px;
