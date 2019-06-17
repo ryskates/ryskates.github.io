@@ -155,15 +155,15 @@ filter: invert(1);
 .custom .stick.left{
     position: absolute;
     background: url(STICK.png);
-    height: 116px;
-    width: 116px;
+    height: 1024px;
+    width: 1024px;
     background-repeat:no-repeat;
 }
 .custom .stick.right{
     position: absolute;
     background: url(C-STICK.png);
-    height: 116px;
-    width: 116px;
+    height: 1024px;
+    width: 1024px;
     background-repeat:no-repeat;
 }
 .custom .dpad{
