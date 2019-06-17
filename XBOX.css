@@ -99,8 +99,8 @@ opacity: 0;
 .custom .start.pressed{
     height: 900px;
     width: 900px;
-    left: -100px;
-    top: -100px;
+    left: -291px;
+    top: -250px;
     background: url(START.png);
     opacity: 1;
 }
@@ -144,7 +144,7 @@ opacity: 0;
     background-repeat:no-repeat;
 }
 .custom .stick{
-    position: absolute;
+    position: -335px;-255px
 }
 .custom .stick.pressed.left{
 filter: invert(1);
