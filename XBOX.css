@@ -99,8 +99,8 @@ opacity: 0;
 .custom .start.pressed{
     height: 900px;
     width: 900px;
-    left: -291px;
-    top: -250px;
+    left: -259px;
+    top: -230px;
     background: url(START.png);
     opacity: 1;
 }
