@@ -154,7 +154,7 @@ filter: invert(1);
 }
 .custom .stick.left{
     position: absolute;
-	top: 230px;
+	top: 240px;
 	left: 150px;
     background: url(STICK.png);
     height: 116px;
