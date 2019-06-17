@@ -157,6 +157,8 @@ filter: invert(1);
     background: url(STICK.png);
     height: 116px;
     width: 116px;
+	height: -335px;
+	left: -255px;
     background-repeat:no-repeat;
 }
 .custom .stick.right{
