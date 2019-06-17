@@ -145,8 +145,8 @@ opacity: 0;
 }
 .custom .stick{
     position: absolute;
-	left: -255px;
-	top: -335px;
+	left: 255px;
+	top: 335px;
 }
 .custom .stick.pressed.left{
 filter: invert(1);
